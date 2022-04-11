@@ -1,7 +1,9 @@
 # Arduino-Parking-System
 Parking garage system - A arduino project source code for a garage system that will detect presence of a car, opens the doors and turns the lights on.
+## Design
+![Design](./img/design.png)
 
-## Components
+## Components List
 * 1x Arduino Uno R3
 * 1x  Breadboard
 * 2x LED
