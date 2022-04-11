@@ -14,4 +14,4 @@ Parking garage system - A arduino project source code for a garage system that w
 * 1x Servo Motor
 
 ## Schematic View
-![Schematic View](https://github.com/fdvmoreira/Arduino-Parking-System/img/schematic-view.png)
+![Schematic View](./img/schematic-view.png)
