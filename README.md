@@ -3,14 +3,15 @@ Parking garage system - A arduino project source code for a garage system that w
 
 ## Components
 * 1x Arduino Uno R3
-* 1x Breadbord
-* 1x LCD 16x2
-* 1x LED RGB
-* 1x IR Remote
-* 1x IR Sensor
-* 1x PIR Sensor
-* 1x Micro Servo
+* 1x  Breadboard
+* 2x LED
 * 1x Potentiometer
+* 1x LCD 16x2
 * 3x Resistor
-* 1x Ultrasonic Distance Sensor
-* 1x Light Bulb
+* 1x IR Remote
+* 1x IR Receiver
+* 1x Light bulb
+* 1x Servo Motor
+
+## Schematic View
+![Schematic View](https://github.com/fdvmoreira/Arduino-Parking-System/img/schematic-view.png)
